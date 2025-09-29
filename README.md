@@ -1,95 +1,103 @@
-# 👨‍💻 Surendra Rajpoot  
-
-🚀 **Full Stack PHP Laravel Developer** | API Specialist | Real-Time Systems  
-
-![Banner](https://img.shields.io/badge/Laravel-Developer-red?style=for-the-badge&logo=laravel)  
+<h1 align="center">👨‍💻 Surendra Rajpoot</h1>
+<p align="center">
+Full Stack PHP Laravel Developer | Cloud Enthusiast | API Specialist
+</p>
 
 ---
 
-## 🔧 Tech Stack  
+## 👋 About Me
+Hi, I'm **Surendra Rajpoot** – a passionate **Laravel (and full stack) developer** with hands-on experience in building **secure APIs, real-time systems, and scalable web applications**.  
+I believe in writing **clean code, scalable architecture, and secure systems** that make an impact.  
+
+🌍 Languages: Hindi 🇮🇳, English 🌐  
+📍 Location: Dombivli (East), Mumbai, Maharashtra  
+
+---
+
+## 🔧 Tech Stack
 
 **Languages:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+PHP | JavaScript | jQuery | HTML | CSS  
 
 **Frameworks & Libraries:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+Laravel (v10–12) | Livewire (selective use) | Bootstrap  
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+MySQL | SQL Server | Eloquent ORM  
+
+**Cloud & DevOps:**  
+Google Cloud Platform (Cloud Run, App Engine, Cloud SQL, GCS, IAM) | Apache | Nginx | Shared Hosting (cPanel)  
 
 **Tools & Utilities:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)  
+Postman | Git | FileZilla | JWT Auth | REST APIs | Docker (basic)  
 
-**Deployment & DevOps:**  
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+**Additional Skills:**  
+Queues | Scheduler | Firebase Notifications | Validation | File Uploads | Excel Import/Export  
 
 ---
 
-## 🚀 Laravel Expertise  
+## 🚀 Key Projects
 
-- 🔐 **Secure API Development:** RESTful APIs with Laravel Passport & Sanctum  
-- 📡 **Real-Time Features:** Chat & notifications with Echo, Pusher & WebSockets  
-- 🧠 **Task Handling:** Queues, Scheduler (Redis, DB)  
-- 🔒 **RBAC Authorization:** Middleware, Gates & Policies  
-- 🧩 **Reusable Frontend:** Blade Components + Livewire  
-- 🧪 **Testing:** PHPUnit & Laravel Dusk  
-- 🌐 **Localization:** Multi-language (Hindi 🇮🇳, English 🌐)  
+🔹 **Bechdaal App Backend** – Laravel + Cloud Run + Cloud SQL  
+Designed secure API backend deployed on **GCP Cloud Run** with Cloud SQL.  
 
----
+🔹 **Rasaflix Clone** – GCP App Engine  
+Streaming platform clone with auto-scaling & HTTPS.  
 
-## 📦 Admin Panels & Internal Tools  
+🔹 **Job Portal API** – Node.js + MongoDB + GitHub Actions  
+Deployed using **CI/CD workflows** integrated with GCP.  
 
-- Request Management Dashboard  
-- AMC Service Scheduler with auto-generated dates  
-- Bank Data Uploader for large dataset processing  
-- Internal Admin Tools to optimize workflows  
+🔹 **Client Websites (at Touchia Technologies)**  
+Dr. Coats Website | Mukta Avenue | Digital Networks | Dance Academy  
 
 ---
 
-## 🔌 Third-Party Integrations  
+## 🎓 Education
 
-- ✅ **PhonePe OAuth 2.0 Flow**  
-- ✅ **SMS Gateways (SMSU, etc.)**  
-- ✅ **HMAC-Secured APIs (APICLUB)**  
-- ✅ **Custom APIs for Big Data Handling**  
+- **BCA – Bachelor of Computer Applications**  
+  Makhanlal Chaturvedi University, Bhopal (2023) – *77.2%*  
 
----
+- **HSC (12th)**  
+  Govt. H.S. School Dikoli, MP Board (2020) – *69%*  
 
-## 🌟 Featured Projects  
-
-- 🔗 **[E-commerce Platform](#)** – Laravel + MySQL + Razorpay Integration  
-- 🔗 **[Chat Application](#)** – Laravel WebSockets + Pusher  
-- 🔗 **[Admin Panel with RBAC](#)** – Role-based secure dashboard  
+- **SSC (10th)**  
+  Govt. High School Dikoli, MP Board (2018) – *87.2%*  
 
 ---
 
-## 📊 GitHub Stats  
+## 📜 Certifications
 
-![Surendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendra-rajpoot&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-rajpoot&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surendra-rajpoot&theme=radical)  
-
----
-
-## 📍 Connect with Me  
-
-- 📧 **surendrarajpoot118@gmail.com**  
-- 🔗 [GitHub](https://github.com/surendra-rajpoot)  
-- 📌 India 🇮🇳  
+- Google Cloud Fundamentals – Core Infrastructure  
+- Laravel for Beginners – Udemy  
+- Git & GitHub Essentials – Great Learning  
+- Node.js + Express Backend – Udemy  
 
 ---
 
-> 💡 *"Clean code, scalable architecture, and secure systems – these are my cornerstones in every project I build."*  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surendra-rajpoot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=surendra-rajpoot&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-rajpoot&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="mailto:surendrarajpoot118@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/surendra-rajpoot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surendra-rajpoot-377192301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [Surendra Rajpoot](https://github.com/surendra-rajpoot)  
