@@ -38,19 +38,29 @@ Queues | Scheduler | Firebase Notifications | Validation | File Uploads | Excel 
 
 ## 🚀 Key Projects
 
-🔹 **Bechdaal App Backend** – Laravel + Cloud Run + Cloud SQL  
-Designed secure API backend deployed on **GCP Cloud Run** with Cloud SQL.  
-
-🔹 **Rasaflix Clone** – GCP App Engine  
-Streaming platform clone with auto-scaling & HTTPS.  
-
-🔹 **Job Portal API** – Node.js + MongoDB + GitHub Actions  
-Deployed using **CI/CD workflows** integrated with GCP.  
-
-🔹 **Client Websites (at Touchia Technologies)**  
-Dr. Coats Website | Mukta Avenue | Digital Networks | Dance Academy  
+### 🔹 Laravel / Back-End Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Bechdaal App Backend** | Laravel + Cloud Run + Cloud SQL | Buyer, Seller, Auditor backend API & Admin Panel deployed on GCP Cloud Run |
+| **Rasaflix App** | Laravel + App Engine | Streaming platform clone with auto-scaling & HTTPS |
+| **Dial Service Center Website** | Laravel + MySQL | Service management platform for digital services |
+| **Altus Airflow** | Laravel + MySQL | Automation & workflow management system |
+| **AbcJobs** | Laravel + MySQL | Job portal connecting employers and job seekers |
 
 ---
+
+### 🔹 PHP / Web Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Dr. Coats Website** | PHP, Laravel, Bootstrap | Professional website for a leading company |
+| **Mukta Avenue Website** | PHP, Laravel, Bootstrap | User-friendly web solution for a real estate firm |
+| **Digital Networks Software** | PHP, MySQL | Platform for network management |
+| **E-Commerce Websites** | PHP, MySQL, Bootstrap | Fully functional e-commerce platforms with advanced features |
+| **Touchia Technologies Websites** | PHP, Laravel, Bootstrap | Corporate websites showcasing company portfolios |
+| **Piyush Dance Academy Websites & Software** | PHP, Laravel, MySQL | Complete digital solution for a dance academy |
+| **Fireflies Institute Websites** | PHP, Laravel, Bootstrap | Professional website for an educational institute |
+| **Job Portal Website** | PHP, Laravel, MySQL | Dynamic job search platform connecting employers and job seekers |
+
 
 ## 🎓 Education
 
