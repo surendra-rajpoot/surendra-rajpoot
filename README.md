@@ -1,70 +1,95 @@
-# 👨‍💻 Surendra Rajpoot – Full Stack PHP Laravel Developer
+# 👨‍💻 Surendra Rajpoot  
 
-Hi, I'm **Surendra Rajpoot** – a passionate Laravel (and full stack) developer with hands-on experience in building secure APIs, real-time systems, and scalable web applications. I follow best practices to deliver clean, maintainable, and high-performing code.
+🚀 **Full Stack PHP Laravel Developer** | API Specialist | Real-Time Systems  
 
-**Languages:** Hindi 🇮🇳, English 🌐
-
----
-
-## 🔧 Tech Stack
-
-**Languages:**
-PHP, JavaScript, jQuery, HTML, CSS
-
-**Frameworks & Libraries:**
-Laravel (v10–12), Livewire (selective use), Bootstrap
-
-**Databases:**
-MySQL, SQL Server, Eloquent ORM
-
-**Tools & Utilities:**
-Postman, Git, FileZilla, JWT Auth, REST APIs
-
-**Deployment & DevOps:**
-Apache, Nginx, Google Cloud VM, Shared Hosting (cPanel)
-
-**Additional Skills:**
-Queues, Scheduler, Firebase Notifications, Validation, File Uploads, Excel Import/Export
-
----
-## 🚀 Featured Projects & Laravel Expertise
-
-- **🔐 Secure API Development:** Built RESTful APIs with **Laravel Sanctum** & **Passport**, integrated third-party services (payment, SMS, CRM).
-- **📡 Real-Time Features:** Implemented **chat** and **notifications** with **Laravel Echo**, **Pusher**, and **WebSockets**.
-- **🧠 Task Handling & Automation:** Managed jobs & scheduled tasks with **Laravel Queues** and **Scheduler** (Redis, DB).
-- **🔒 Role-Based Authorization:** Developed **middleware**, **Gates**, & **Policies** for secure access control.
-- **🧩 Frontend Architecture:** Created reusable **Blade components**; used **Livewire** for dynamic UI when needed.
-- **🧪 Testing & Quality:** Used **PHPUnit** and **Laravel Dusk** for automated testing and high-quality code.
-- **🌐 Localization:** Implemented multi-language support (Hindi & English) with **Laravel’s localization**.
+![Banner](https://img.shields.io/badge/Laravel-Developer-red?style=for-the-badge&logo=laravel)  
 
 ---
 
-## 📦 Admin Panels & Internal Tools
+## 🔧 Tech Stack  
 
-- **Request Management Dashboard**
-- **AMC Service Scheduler** with auto-generated dates
-- **Bank Data Uploader** for processing large datasets
-- **Internal Admin Tools** to optimize workflows
+**Languages:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+**Frameworks & Libraries:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+**Tools & Utilities:**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)  
+
+**Deployment & DevOps:**  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ---
 
-## 🔌 Third-Party Integrations
+## 🚀 Laravel Expertise  
 
-- ✅ **PhonePe OAuth 2.0 Flow**
-- ✅ **SMS Gateways** (e.g., SMSU)
-- ✅ **HMAC-secured APIs** (e.g., APICLUB)
-- ✅ **Custom External APIs** for large dataset handling
-
-
-
----
-
-## 📍 Let’s Connect
-
-- 📧 Email: **surendra@notiontech.co.in**
-- 🔗 GitHub: [github.com/surendra-raj](https://github.com/surendra-raj)
-- 📌 Location: India 🇮🇳
+- 🔐 **Secure API Development:** RESTful APIs with Laravel Passport & Sanctum  
+- 📡 **Real-Time Features:** Chat & notifications with Echo, Pusher & WebSockets  
+- 🧠 **Task Handling:** Queues, Scheduler (Redis, DB)  
+- 🔒 **RBAC Authorization:** Middleware, Gates & Policies  
+- 🧩 **Reusable Frontend:** Blade Components + Livewire  
+- 🧪 **Testing:** PHPUnit & Laravel Dusk  
+- 🌐 **Localization:** Multi-language (Hindi 🇮🇳, English 🌐)  
 
 ---
 
-> 💡 *"Clean code, scalable architecture, and secure systems – these are my cornerstones in every project I build."*
+## 📦 Admin Panels & Internal Tools  
+
+- Request Management Dashboard  
+- AMC Service Scheduler with auto-generated dates  
+- Bank Data Uploader for large dataset processing  
+- Internal Admin Tools to optimize workflows  
+
+---
+
+## 🔌 Third-Party Integrations  
+
+- ✅ **PhonePe OAuth 2.0 Flow**  
+- ✅ **SMS Gateways (SMSU, etc.)**  
+- ✅ **HMAC-Secured APIs (APICLUB)**  
+- ✅ **Custom APIs for Big Data Handling**  
+
+---
+
+## 🌟 Featured Projects  
+
+- 🔗 **[E-commerce Platform](#)** – Laravel + MySQL + Razorpay Integration  
+- 🔗 **[Chat Application](#)** – Laravel WebSockets + Pusher  
+- 🔗 **[Admin Panel with RBAC](#)** – Role-based secure dashboard  
+
+---
+
+## 📊 GitHub Stats  
+
+![Surendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendra-rajpoot&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-rajpoot&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surendra-rajpoot&theme=radical)  
+
+---
+
+## 📍 Connect with Me  
+
+- 📧 **surendrarajpoot118@gmail.com**  
+- 🔗 [GitHub](https://github.com/surendra-rajpoot)  
+- 📌 India 🇮🇳  
+
+---
+
+> 💡 *"Clean code, scalable architecture, and secure systems – these are my cornerstones in every project I build."*  
+
+---
