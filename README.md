@@ -20,7 +20,7 @@ I believe in writing **clean code, scalable architecture, and secure systems** t
 PHP | JavaScript | jQuery | HTML | CSS  
 
 **Frameworks & Libraries:**  
-Laravel (v10–12) | Livewire (selective use) | Bootstrap  
+Laravel (v11–13) | Livewire (selective use) | Bootstrap  
 
 **Databases:**  
 MySQL | SQL Server | Eloquent ORM  
@@ -37,16 +37,25 @@ Queues | Scheduler | Firebase Notifications | Validation | File Uploads | Excel 
 ---
 
 ## 🚀 Key Projects
-
-### 🔹 Laravel / Back-End Projects
-| Project                                                          | Stack                                            | Description                                                                                   |
-| ---------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| **[Bechdaal](https://bechdaal.in/)**                             | Laravel · GCP Cloud Run · Cloud SQL              | Cloud-hosted backend APIs for Buyer/Seller/Auditor + Admin Panel                             |
-| **[Rasaflix](https://rasaflixentertainment.com)**                | Laravel · GCP App Engine · Cloud SQL             | Cloud-scalable streaming backend with auto-scaling & HTTPS                                   |
-| **[Dial Service Center](https://dialservicecentre.com/)**        | Laravel · MySQL · Cloud Deployment               | Cloud-deployed digital service management backend                                            |
-| **[Altus Airflow](https://altusairflow.com/)**                   | Laravel · MySQL · Cloud Deployment               | Cloud backend for website + mobile app workflow automation & task management                 |
-| **[AbcJobs](http://34.47.218.59/)**                              | Laravel · MySQL · Cloud Server                   | Cloud-hosted job portal connecting employers and job seekers                                  |
-| **[Swimwell](https://swimwell.co.in/)**                          | Laravel · MySQL · Cloud Deployment               | Cloud backend for website + User & Engineer mobile apps for pool service management          |
+| Project | Stack | Description |
+|--------|-------|-------------|
+| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with robust admin panel, REST APIs, and mobile apps |
+| [Bechdaal](https://bechdaal.in/) | Laravel + MySQL | Digital marketplace for buying and selling scrap materials with admin panel, REST APIs, and mobile apps |
+| [Swimwell](https://swimwell.co.in/) | Laravel + MySQL | Pool construction management platform with admin panel, REST APIs, and mobile apps |
+| [Altus Airflow](https://altusairflow.com/) | Laravel + MySQL | Machinery repair platform with advanced admin panel, REST APIs, and mobile apps |
+| [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Digital services platform with admin panel and REST APIs |
+| [Nejyra](https://nejyra.in/) | Laravel + MySQL | Technology-driven platform with robust admin panel, REST APIs, and mobile apps |
+| [Rasaflix](https://rasaflixentertainment.com/) | Laravel + MySQL | OTT platform for streaming movies and TV shows with admin panel, REST APIs, and mobile apps |
+| [AbcJobs](http://34.47.218.59/) | Laravel + MySQL | 	Job management platform for employers and job seekers with admin panel, REST APIs, and mobile apps |
+| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal featuring recommendations, admin panel, and REST APIs |
+| [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Relocation service platform with admin panel and REST APIs |
+| [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL | Travel portal with recommendations, admin panel, and REST APIs |
+| [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking platform with comprehensive admin panel and REST APIs |
+| [Nabatz](https://nabatz.com/) | Laravel + MySQL | Fruit and vegetable management platform with feature-rich admin panel |
+| [Gifttara](https://gifttara.com/) | Next.js + PostgreSQL | Gift eCommerce platform with advanced admin panel, REST APIs, and order management |
+| [CarVista](https://carvista.ae/) | Laravel + MySQL | Car rental website with vehicle listings, booking management, admin panel, and REST APIs |
+| [Repair](https://reepair.in/) | Laravel + MySQL | Repair service management platform with admin panel, service booking, and REST APIs |
+| [Eternal Tours](https://eternaltours.in/) | Laravel + MySQL | Travel and tour booking platform with tour packages, admin panel, and REST APIs |
 
 ## 🎓 Education
 
